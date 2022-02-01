@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Fetch-and-Display-Shop/static/css/main.019f3381.css",
+    "main.js": "/React-Fetch-and-Display-Shop/static/js/main.c8636ae9.js",
+    "index.html": "/React-Fetch-and-Display-Shop/index.html",
+    "main.019f3381.css.map": "/React-Fetch-and-Display-Shop/static/css/main.019f3381.css.map",
+    "main.c8636ae9.js.map": "/React-Fetch-and-Display-Shop/static/js/main.c8636ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019f3381.css",
+    "static/js/main.c8636ae9.js"
+  ]
+}

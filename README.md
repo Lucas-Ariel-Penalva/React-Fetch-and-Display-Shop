@@ -4,7 +4,7 @@
 
 ### [You can see the result here](https://lucas-ariel-penalva.github.io/React-Fetch-and-Display-Shop/).
 
-This is a simple example of how to use React's **useEffect hook** to fetch data from an API, and then displaying that data on the screen in the form of cards for an E-commerce.
+This is a simple example of how to use React's **useEffect hook** to fetch data from an API, and then displaying that data in the form of cards for an E-commerce.
 
 This is an elementary task, but I realized that I still didn't have anything on my Github that uses *React* and I want to showcase my skills with very quick projects that take less than a day to build.
 
